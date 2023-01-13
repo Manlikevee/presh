@@ -1,11 +1,10 @@
 import React from 'react'
-import { useRef } from 'react';
 import  '../mystyle2.css'
 import  '../mystyle.css'
 import Mynav from './Mynav';
 
 function PageOne() {
-  const sectionRef = useRef(null);
+
   return (
   
     <div>
@@ -445,7 +444,7 @@ function PageOne() {
         </div>
       </div>
       <div className="sectreb serub">
-        <img src="https://github.com/Manlikevee/hotelbooking/raw/master/New folder/Image (2).png" alt="victor" className="rise-shake rshn" />
+        <img src="https://github.com/Manlikevee/hotelbooking/raw/master/New folder/Image (2).png" className="rise-shake rshn" alt='sabiboy' />
       </div>
     </div>
   </section>
@@ -464,7 +463,7 @@ function PageOne() {
       </div>
     </div>
     <div className="flipsidea">
-      <img src="https://github.com/Manlikevee/hotelbooking/raw/master/New folder/Group 64.png" />
+      <img src="https://github.com/Manlikevee/hotelbooking/raw/master/New folder/Group 64.png" alt="sabigirl" />
     </div>
   </div>
 </div>

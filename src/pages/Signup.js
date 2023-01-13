@@ -24,7 +24,7 @@ const Signup = () => {
   </div>
   <div className="loginbox2">
     <p className="welcomemessage">
-      Welcome back 👋
+      Welcome back 
     </p>
     <div className="presource">
       We Provide educational opportunities and resources
